@@ -1,1 +1,1 @@
-General Problems with soltions for DSA prep
+General Problems with solutions for DSA prep
